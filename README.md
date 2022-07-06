@@ -1,6 +1,8 @@
 # ReceiptGenerator
 This program aims to simulate printing a receipt for any business. My aim is to make this fully customizable and plan on adding more things in the future slowly, This is just a fun side project.
 
+To change any information about the shop just edit the shop file
+
 To add or change items to the menu, just add them in the menu file
 
 To add or change prices in the menu, just add them in the price file
