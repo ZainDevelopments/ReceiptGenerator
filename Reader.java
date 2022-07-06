@@ -8,7 +8,7 @@ public class Reader {
         FileReader();
     }
 
-    final static String FILE_PATH = "C:\\Users\\zain1\\eclipse-workspace\\Receipt\\Boba Shop";
+    final static String FILE_PATH = "C:\\Users\\zain1\\eclipse-workspace\\Receipt\\Shop";
     final static File file = new File(FILE_PATH);
 
     final static String FILE_MENU_PATH = "C:\\Users\\zain1\\eclipse-workspace\\Receipt\\Menu";
